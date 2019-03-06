@@ -38,3 +38,5 @@ functions list :
 6. check_folder
 7. Checkout-Folder
 8. Delete_prev
+
+Ps1 To Exe to convert .ps1 scripts to EXE 
