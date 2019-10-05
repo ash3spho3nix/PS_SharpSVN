@@ -2,7 +2,7 @@
 SharpSVN based PowerShell Code for automated repository installation, updation and self-updation for Windows
 
 
-============      AUTOMATED REPOSITORY INSTALLATION AND UPDATION TOOL    ====================
+============      AUTOMATED REPOSITORY INSTALLATION AND UPDATION TOOL    =
 
 The tool provides a binary distribution for repository checkup and update.
 It sets up a pre-configured complete environment with convenient startup options.
