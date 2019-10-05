@@ -29,7 +29,7 @@ Under section 'Exclude:', mention the name of folder to be excluded from update.
 ========== DEVELOPER'S GUIDE ===
 
 source code is present in .ps1 files.
-functions list :
+Functions list :
 1. Get-Folder
 2. Download-File
 3. Cond-Create-Folder
