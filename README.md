@@ -2,7 +2,7 @@
 SharpSVN based PowerShell Code for automated repository installation, updation and self-updation for Windows
 
 
-============      AUTOMATED REPOSITORY INSTALLATION AND UPDATION TOOL    =
+============      AUTOMATED REPOSITORY INSTALLATION AND UPDATION TOOL    ============
 
 The tool provides a binary distribution for repository checkup and update.
 It sets up a pre-configured complete environment with convenient startup options.
@@ -16,7 +16,7 @@ Features :
 Base - PowerShell
 Dependancy : SharpSVN.dll
 
-=========== USER'S GUIDE =======
+=========== USER'S GUIDE =============
 
 For first time:
 Create a new folder where the repositories are needed to be checked out.
@@ -26,7 +26,7 @@ If required, the popup will ask for the Authentication.
 To remove any folder from getting new updates, configure the settings.txt file
 Under section 'Exclude:', mention the name of folder to be excluded from update. 
 
-========== DEVELOPER'S GUIDE ===
+========== DEVELOPER'S GUIDE ===============
 
 source code is present in .ps1 files.
 Functions list :
